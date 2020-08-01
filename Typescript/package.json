@@ -1,0 +1,26 @@
+{
+  "name": "bitflex-typescript",
+  "version": "0.0.1",
+  "description": "BITFLEX Exchange Typescript Public & Private Api Library",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitflex-llc/bitflex-typescript.git"
+  },
+  "keywords": [
+    "crypto",
+    "exchange",
+    "bitflex",
+    "cryptocurrency",
+    "api"
+  ],
+  "author": "George Tagirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitflex-llc/bitflex-typescript/issues"
+  },
+  "homepage": "https://github.com/bitflex-llc/bitflex-typescript#readme"
+}
